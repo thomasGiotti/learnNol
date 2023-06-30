@@ -1,0 +1,26 @@
+export const imageCrypto = [
+  "/IMG-20230614-WA0025.jpg",
+  "/IMG-20230614-WA0026.jpg",
+  "/IMG-20230614-WA0031.jpg",
+  "/IMG-20230614-WA0042.jpg,",
+  "/IMG-20230614-WA0043.jpg,",
+  "/IMG-20230614-WA0047.jpg,",
+  "/IMG-20230614-WA0048.jpg",
+  "/IMG-20230614-WA0049.jpg",
+  "/IMG-20230614-WA0055.jpg",
+  "/IMG-20230614-WA0056.jpg,",
+  "/IMG-20230614-WA0060.jpg",
+];
+export const imageDepannage = [
+  "/IMG-20230614-WA0025.jpg",
+  "/IMG-20230614-WA0026.jpg",
+  "/IMG-20230614-WA0031.jpg",
+  "/IMG-20230614-WA0042.jpg",
+  "/IMG-20230614-WA0043.jpg",
+  "/IMG-20230614-WA0047.jpg",
+  "/IMG-20230614-WA0048.jpg",
+  "/IMG-20230614-WA0049.jpg",
+  "/IMG-20230614-WA0055.jpg",
+  "/IMG-20230614-WA0056.jpg",
+  "/IMG-20230614-WA0060.jpg",
+];
