@@ -1,6 +1,5 @@
 import { Fade } from "react-awesome-reveal";
 import { services } from "../assets/data";
-import { AiOutlineShoppingCart } from "react-icons/ai";
 
 const Presentation = () => {
   const dataIcon = [
