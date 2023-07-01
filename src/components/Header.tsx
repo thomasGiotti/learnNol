@@ -26,7 +26,7 @@ const Header = ({
         <nav>
           <ul className="DESKTOP-MENU hidden space-x-8 md:flex">
             <li
-              className="text-black dark:bg-white  font-semibold cursor-pointer "
+              className="text-black dark:text-white  font-semibold cursor-pointer "
               onClick={() => handleNavigate("depannage")}
             >
               <a className={navValue === "depannage" ? "underline" : ""}>
@@ -34,7 +34,7 @@ const Header = ({
               </a>
             </li>
             <li
-              className="text-black dark:bg-white  font-semibold cursor-pointer "
+              className="text-black dark:text-white  font-semibold cursor-pointer "
               onClick={() => handleNavigate("videosurveillance")}
             >
               <a
@@ -44,7 +44,7 @@ const Header = ({
               </a>
             </li>
             <li
-              className="text-black  dark:bg-white font-semibold cursor-pointer "
+              className="text-black  dark:text-white font-semibold cursor-pointer "
               onClick={() => handleNavigate("minage")}
             >
               <a className={navValue === "minage" ? "underline" : ""}>Minage</a>
