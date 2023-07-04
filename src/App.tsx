@@ -103,7 +103,10 @@ function App() {
         <ContactIcon />
         <nav className="fixed bottom-0 left-0 right-0 bg-white shadow flex justify-around items-center py-3 px-4 md:hidden z-50 ">
           <a
-            onClick={() => setValue("depannage")}
+            onClick={() => {
+              window.scrollTo(0, 0);
+              setValue("depannage");
+            }}
             className={
               value === "depannage"
                 ? "flex flex-col items-center text-black font-bold"
@@ -114,7 +117,10 @@ function App() {
             <span className="text-sm mt-1 text-black">Dépannage</span>
           </a>
           <a
-            onClick={() => setValue("videosurveillance")}
+            onClick={() => {
+              window.scrollTo(0, 0);
+              setValue("videosurveillance");
+            }}
             className={
               value === "videosurveillance"
                 ? "flex flex-col items-center text-black font-bold"
@@ -125,7 +131,10 @@ function App() {
             <span className="text-sm mt-1">Vidéosurveillance </span>
           </a>
           <a
-            onClick={() => setValue("minage")}
+            onClick={() => {
+              window.scrollTo(0, 0);
+              setValue("minage");
+            }}
             className={
               value === "minage"
                 ? "flex flex-col items-center text-black font-bold"
