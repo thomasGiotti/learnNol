@@ -62,9 +62,8 @@ function App() {
                   tranquillité d'esprit avec des fonctionnalités avancées telles
                   que la vision nocturne, la détection de mouvement intelligente
                   et l'accès à distance en temps réel. Ne laissez plus rien au
-                  hasard, explorez notre site dès maintenant et transformez
-                  votre espace en forteresse inviolable. Votre sécurité est
-                  notre priorité numéro un.
+                  hasard, transformez votre espace en forteresse inviolable.
+                  Votre sécurité est notre priorité numéro un.
                 </p>
               </article>
             </Fade>

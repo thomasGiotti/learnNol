@@ -40,16 +40,16 @@ export const services = [
 export const crypto = [
   {
     id: 1,
-    title: "Formation au minage de crypto-monnaies",
-    content:
-      "Notre formation en minage de crypto-monnaies vous offre l'opportunité d'acquérir les compétences nécessaires pour vous lancer dans cette activité lucrative. Notre programme complet vous guidera à travers les concepts clés du minage, de l'installation et de la configuration du matériel spécialisé, à la gestion des logiciels et des pools miniers. Vous apprendrez les différentes techniques d'optimisation et de sécurité, ainsi que les stratégies pour maximiser vos rendements. Rejoignez notre formation et découvrez comment profiter des opportunités offertes par le minage de crypto-monnaies dans le monde numérique en constante évolution.",
-    more: "",
-  },
-  {
-    id: 2,
     title: "Vente de RIGs clef en main",
     content:
       " Des rigs de minage clés en main, prêts à l'emploi, pour vous permettre de vous lancer facilement dans l'activité de minage de crypto-monnaies. Nos rigs sont soigneusement assemblés avec des composants de haute qualité, optimisés pour offrir des performances maximales en matière de minage. Nous prenons en charge l'installation du système d'exploitation, des pilotes et des logiciels de minage, afin que vous puissiez commencer à miner dès que vous recevez votre rig. De plus, notre équipe est disponible pour vous fournir un support technique continu et des conseils pour optimiser vos rendements. Simplifiez votre expérience de minage avec nos rigs clés en main.",
     more: "Formation au minage de crypto-monnaies incluse lors de l'achat de nos RIGs.",
+  },
+  {
+    id: 2,
+    title: "Formation au minage de crypto-monnaies",
+    content:
+      "Notre formation en minage de crypto-monnaies vous offre l'opportunité d'acquérir les compétences nécessaires pour vous lancer dans cette activité lucrative. Notre programme complet vous guidera à travers les concepts clés du minage, de l'installation et de la configuration du matériel spécialisé, à la gestion des logiciels et des pools miniers. Vous apprendrez les différentes techniques d'optimisation et de sécurité, ainsi que les stratégies pour maximiser vos rendements. Rejoignez notre formation et découvrez comment profiter des opportunités offertes par le minage de crypto-monnaies dans le monde numérique en constante évolution.",
+    more: "",
   },
 ];
